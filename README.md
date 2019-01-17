@@ -12,6 +12,8 @@ This repository demonstrates using [Docusaurus](https://docusaurus.io) to author
 - [ ] Copy content from other FDC3 repositories into this single repository, to try and achieve a unified structure with an overview, that distinguishes clearly between specifications, examples and usage documentation
 - [ ] Apply versioning
 - [ ] Add documentation content
+- [ ] Present to PMC
+- [ ] Setup CI
 
 ## References
 

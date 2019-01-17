@@ -1,0 +1,39 @@
+title: FDC3 App Directory specifications
+
+description: The documentation website for the FINOS FDC3 App Directory specifications
+
+google_analytics: UU-123456
+
+show_downloads: false
+
+github:
+  is_project_page: true
+  repository_url: https://github.com/fdc3/appd-api
+
+version: '[[tag]]'
+
+collections:
+- tags
+
+links:
+  - name: Getting Started
+    url: /
+  - name: AppD Discovery (spec)
+    url: /AppD_Discovery
+  - name: API (spec)
+    url: /appd-specification
+  - name: ----------------
+    url:
+  - name: AppD Use
+    url: /AppD_Use
+  - name: FDC3 App Directory Working Group
+    url: https://finosfoundation.atlassian.net/wiki/spaces/FDC3/pages/83918899/App+Directory+Working+Group
+    target: _blank
+
+social_icons:
+  - name: github
+    image_url: "https://www.finos.org/hs-fs/hubfs/FINOS/website/logos/social-logos/github-logo-black.png?t=1539813516681&amp;width=48&amp;height=48&amp;name=github-logo.png"
+    link_url: https://github.com/fdc3/appd-api
+  - name: confluence
+    image_url: "https://www.finos.org/hs-fs/hubfs/sofin%20assets/External%20logos/atlassian-logo.png?width=48&amp;height=48&amp;name=atlassian-logo.png"
+    link_url: https://finosfoundation.atlassian.net/wiki/spaces/FDC3/pages/83918899/App+Directory+Working+Group
