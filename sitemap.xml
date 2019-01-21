@@ -8,9 +8,18 @@
 <url> <loc>https://rikoe.github.io/FDC3/blog/2017/09/25/testing-rss</loc> <changefreq>weekly</changefreq> <priority>0.3</priority> </url>
 <url> <loc>https://rikoe.github.io/FDC3/blog/2017/04/10/blog-post-two</loc> <changefreq>weekly</changefreq> <priority>0.3</priority> </url>
 <url> <loc>https://rikoe.github.io/FDC3/blog/2016/03/11/blog-post</loc> <changefreq>weekly</changefreq> <priority>0.3</priority> </url>
-<url> <loc>https://rikoe.github.io/FDC3/docs/doc1</loc> <changefreq>hourly</changefreq> <priority>1.0</priority> <xhtml:link rel="alternate" hreflang="en" href="https://rikoe.github.io/FDC3/docs/doc1" /> </url>
-<url> <loc>https://rikoe.github.io/FDC3/docs/doc2</loc> <changefreq>hourly</changefreq> <priority>1.0</priority> <xhtml:link rel="alternate" hreflang="en" href="https://rikoe.github.io/FDC3/docs/doc2" /> </url>
-<url> <loc>https://rikoe.github.io/FDC3/docs/doc3</loc> <changefreq>hourly</changefreq> <priority>1.0</priority> <xhtml:link rel="alternate" hreflang="en" href="https://rikoe.github.io/FDC3/docs/doc3" /> </url>
-<url> <loc>https://rikoe.github.io/FDC3/docs/doc4</loc> <changefreq>hourly</changefreq> <priority>1.0</priority> <xhtml:link rel="alternate" hreflang="en" href="https://rikoe.github.io/FDC3/docs/doc4" /> </url>
-<url> <loc>https://rikoe.github.io/FDC3/docs/doc5</loc> <changefreq>hourly</changefreq> <priority>1.0</priority> <xhtml:link rel="alternate" hreflang="en" href="https://rikoe.github.io/FDC3/docs/doc5" /> </url>
+<url> <loc>https://rikoe.github.io/FDC3/docs/api-findIntent</loc> <changefreq>hourly</changefreq> <priority>1.0</priority> <xhtml:link rel="alternate" hreflang="en" href="https://rikoe.github.io/FDC3/docs/api-findIntent" /> </url>
+<url> <loc>https://rikoe.github.io/FDC3/docs/api-intro</loc> <changefreq>hourly</changefreq> <priority>1.0</priority> <xhtml:link rel="alternate" hreflang="en" href="https://rikoe.github.io/FDC3/docs/api-intro" /> </url>
+<url> <loc>https://rikoe.github.io/FDC3/docs/api-spec</loc> <changefreq>hourly</changefreq> <priority>1.0</priority> <xhtml:link rel="alternate" hreflang="en" href="https://rikoe.github.io/FDC3/docs/api-spec" /> </url>
+<url> <loc>https://rikoe.github.io/FDC3/docs/appd-discovery</loc> <changefreq>hourly</changefreq> <priority>1.0</priority> <xhtml:link rel="alternate" hreflang="en" href="https://rikoe.github.io/FDC3/docs/appd-discovery" /> </url>
+<url> <loc>https://rikoe.github.io/FDC3/docs/appd-intro</loc> <changefreq>hourly</changefreq> <priority>1.0</priority> <xhtml:link rel="alternate" hreflang="en" href="https://rikoe.github.io/FDC3/docs/appd-intro" /> </url>
+<url> <loc>https://rikoe.github.io/FDC3/docs/appd-spec</loc> <changefreq>hourly</changefreq> <priority>1.0</priority> <xhtml:link rel="alternate" hreflang="en" href="https://rikoe.github.io/FDC3/docs/appd-spec" /> </url>
+<url> <loc>https://rikoe.github.io/FDC3/docs/appd-use</loc> <changefreq>hourly</changefreq> <priority>1.0</priority> <xhtml:link rel="alternate" hreflang="en" href="https://rikoe.github.io/FDC3/docs/appd-use" /> </url>
+<url> <loc>https://rikoe.github.io/FDC3/docs/context-intro</loc> <changefreq>hourly</changefreq> <priority>1.0</priority> <xhtml:link rel="alternate" hreflang="en" href="https://rikoe.github.io/FDC3/docs/context-intro" /> </url>
+<url> <loc>https://rikoe.github.io/FDC3/docs/context-spec</loc> <changefreq>hourly</changefreq> <priority>1.0</priority> <xhtml:link rel="alternate" hreflang="en" href="https://rikoe.github.io/FDC3/docs/context-spec" /> </url>
+<url> <loc>https://rikoe.github.io/FDC3/docs/fdc3-charter</loc> <changefreq>hourly</changefreq> <priority>1.0</priority> <xhtml:link rel="alternate" hreflang="en" href="https://rikoe.github.io/FDC3/docs/fdc3-charter" /> </url>
+<url> <loc>https://rikoe.github.io/FDC3/docs/fdc3-intro</loc> <changefreq>hourly</changefreq> <priority>1.0</priority> <xhtml:link rel="alternate" hreflang="en" href="https://rikoe.github.io/FDC3/docs/fdc3-intro" /> </url>
+<url> <loc>https://rikoe.github.io/FDC3/docs/intents-intro</loc> <changefreq>hourly</changefreq> <priority>1.0</priority> <xhtml:link rel="alternate" hreflang="en" href="https://rikoe.github.io/FDC3/docs/intents-intro" /> </url>
+<url> <loc>https://rikoe.github.io/FDC3/docs/intents-spec</loc> <changefreq>hourly</changefreq> <priority>1.0</priority> <xhtml:link rel="alternate" hreflang="en" href="https://rikoe.github.io/FDC3/docs/intents-spec" /> </url>
+<url> <loc>https://rikoe.github.io/FDC3/docs/tutorial</loc> <changefreq>hourly</changefreq> <priority>1.0</priority> <xhtml:link rel="alternate" hreflang="en" href="https://rikoe.github.io/FDC3/docs/tutorial" /> </url>
 </urlset>
